@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fed17bc3-bae9-4e9c-8d67-0286f854b851" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/App.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/Menu.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/MyException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/RandomPickerYearly.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/Client.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/NamesDatabase.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/ClientsCollection.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/ForenamesCounter.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/RandomWinnerPicker.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad11/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/MyList.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/Element.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/Anchor.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/MyException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/FactorialRunner.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/ExceptionsRunner.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/ExceptionTwo.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/ExceptionThree.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/ExceptionOne.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/MyFileNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/canNotWriteException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/ExceptionOne.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/ExceptionThree.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/ExceptionTwo.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/MyException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/MyFileNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/canNotReadException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/CanNotReadException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/CanNotWriteException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/notAFileException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/NotAFileException.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Main.java" />
+        <option value="$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/FileSearcher.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="800" />
+    <option name="height" value="865" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="L2.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="L2.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="L2.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="L2.1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="L2.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555144195428" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.maciejlagowski.jtp.l2.zad1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.zad22">
+    <configuration name="zad11" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.maciejlagowski.jtp.l2.zad1.zad11.Main" />
+      <module name="JTPLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.maciejlagowski.jtp.l2.zad1.zad11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad12" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.maciejlagowski.jtp.l2.zad1.zad12.Main" />
+      <module name="JTPLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.maciejlagowski.jtp.l2.zad1.zad12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad21ExceptionsRunner" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.maciejlagowski.jtp.l2.zad2.zad21.ExceptionsRunner" />
+      <module name="JTPLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.maciejlagowski.jtp.l2.zad2.zad21.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad21Factorial" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.maciejlagowski.jtp.l2.zad2.zad21.FactorialRunner" />
+      <module name="JTPLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.maciejlagowski.jtp.l2.zad2.zad21.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad22" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="io.github.maciejlagowski.jtp.l2.zad2.zad22.Main" />
+      <module name="JTPLab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.maciejlagowski.jtp.l2.zad2.zad22.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.zad11" />
+      <item itemvalue="Application.zad12" />
+      <item itemvalue="Application.zad21ExceptionsRunner" />
+      <item itemvalue="Application.zad21Factorial" />
+      <item itemvalue="Application.zad22" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zad22" />
+        <item itemvalue="Application.zad21ExceptionsRunner" />
+        <item itemvalue="Application.zad21Factorial" />
+        <item itemvalue="Application.zad12" />
+        <item itemvalue="Application.zad11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fed17bc3-bae9-4e9c-8d67-0286f854b851" name="Default Changelist" comment="" />
+      <created>1554876108215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554876108215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-3" y="0" width="1606" height="868" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2169448" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.24091521" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zad2 &amp; zad3" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad2 &amp; zad3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/App.java" />
+    <entry file="jrt:///usr/lib/jvm/java-11-openjdk-11.0.2.7-0.fc29.x86_64!/java.base/java/lang/Throwable.class" />
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad11/ForenamesCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad11/RandomWinnerPicker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="method#RandomWinnerPicker#0;class#RandomWinnerPicker#0" />
+            <element signature="method#getRandomClients#0;class#RandomWinnerPicker#0" />
+            <element signature="method#getRandomClientsButBetter#0;class#RandomWinnerPicker#0" />
+            <element signature="method#randomMonth#0;class#RandomWinnerPicker#0" />
+            <element signature="method#run#0;class#RandomWinnerPicker#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad11/ClientsCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addClient#1;class#ClientsCollection#0" />
+            <element signature="method#searchClient#0;class#ClientsCollection#0" />
+            <element signature="method#searchClient#1;class#ClientsCollection#0" />
+            <element signature="method#randomClient#0;class#ClientsCollection#0" />
+            <element signature="method#soutClients#0;class#ClientsCollection#0" />
+            <element signature="method#soutClients#1;class#ClientsCollection#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad11/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad11/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad11/NamesDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/MyList.java" />
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad1/zad12/Anchor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1894#1895#0" expanded="true" />
+            <element signature="e#1921#1922#0" expanded="true" />
+            <element signature="e#1954#1955#0" expanded="true" />
+            <element signature="e#1982#1983#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/FactorialRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="method#factorial#0;class#Factorial#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/ExceptionsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/ExceptionOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/ExceptionThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/ExceptionTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad21/Exceptions/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/CanNotReadException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/CanNotWriteException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/NotAFileException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Exceptions/MyFileNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/FileSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#FileSearcher#0;class#FileSearcher#0" />
+            <element signature="method#run#0;class#FileSearcher#0" />
+            <element signature="method#searchFile#0;class#FileSearcher#0" />
+            <element signature="method#makeLogAndDelete#0;class#FileSearcher#0" />
+            <element signature="method#mySleep#0;class#FileSearcher#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/github/maciejlagowski/jtp/l2/zad2/zad22/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>L2.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
