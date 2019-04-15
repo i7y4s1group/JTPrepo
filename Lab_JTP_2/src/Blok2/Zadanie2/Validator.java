@@ -18,7 +18,7 @@ public class Validator {
     public void validateDirectory(File directory){
 
         if (!directory.canRead()){
-            errors.put("directory", "cannot be read");
+            errors.put("directory-read", "cannot be read");
         }
 
         if(!directory.isDirectory()){
@@ -29,11 +29,11 @@ public class Validator {
     public void validateFile(File file){
 
         if(!file.canRead()){
-            errors.put("file", "cannot be read");
+            errors.put("file-read", "cannot be read");
         }
 
         if(!file.canExecute()){
-            errors.put("file", "cannot be executed");
+            errors.put("file-execute", "cannot be executed");
         }
     }
 
