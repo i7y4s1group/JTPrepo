@@ -5,11 +5,9 @@ import java.util.Random;
 public class Start {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
 		int [] tab = {-3, -1, 0, 1, 2, 4, 5};
-		//a(tab);
-		//b(tab);
+		a(tab);
+		b(tab);
 		e();
 		
 	}
@@ -22,16 +20,8 @@ public class Start {
 			fact.factorial(tab[i]);
 			System.out.println(tab[i] + "! = " + fact);
 		}
-		
-	/*	
-		fact.factorial(x);
-		System.out.println(x + "! = " + fact);
-		*/
-		
-		
-		
-		
 	}
+	
 	
 	public static void b(int [] tab) {
 		Factorial fact = new Factorial();
