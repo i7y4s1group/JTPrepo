@@ -1,0 +1,3 @@
+klasy line i point - linia i punkt
+maja zawierac metody: 	move - przesuwanie punktow i linii o wektor,
+			flip - przerzucanie symetryczne wzgledem (0,0)

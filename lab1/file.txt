@@ -1,0 +1,4 @@
+Punkt{ x = 5, y = 5 }
+Punkt{ x = -3, y = -2 }
+Linia{ p1 = Punkt{ x = 8, y = 9 }, p2 = Punkt{ x = 5, y = 7 } }
+Linia{ p1 = Punkt{ x = -1, y = -1 }, p2 = Punkt{ x = -5, y = -5 } }
