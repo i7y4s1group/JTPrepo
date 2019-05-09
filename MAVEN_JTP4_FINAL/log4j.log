@@ -1,0 +1,410 @@
+19/05/09 21:08:15,675 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 13
+19/05/09 21:08:16,691 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 22
+19/05/09 21:08:17,691 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 12
+19/05/09 21:08:17,692 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 11
+19/05/09 21:08:17,693 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 11
+19/05/09 21:08:18,692 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: jablko 8
+19/05/09 21:08:19,692 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 9
+19/05/09 21:08:20,692 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 4
+19/05/09 21:08:21,693 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 7
+19/05/09 21:08:21,693 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 11
+19/05/09 21:08:21,694 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 11
+19/05/09 21:08:22,693 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 3
+19/05/09 21:08:22,699 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 22
+19/05/09 21:08:22,700 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 22
+19/05/09 21:08:23,693 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 27
+19/05/09 21:08:24,694 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: jablko 6
+19/05/09 21:08:24,700 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 11
+19/05/09 21:08:24,701 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 11
+19/05/09 21:08:25,694 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 5
+19/05/09 21:08:26,694 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 14
+19/05/09 21:08:26,700 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 16
+19/05/09 21:08:26,700 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 16
+19/05/09 21:08:27,694 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 22
+19/05/09 21:08:27,698 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 11
+19/05/09 21:08:27,699 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 11
+19/05/09 21:08:28,695 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 16
+19/05/09 21:08:28,698 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 15
+19/05/09 21:08:28,699 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 15
+19/05/09 21:08:29,695 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 23
+19/05/09 21:08:29,699 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 22
+19/05/09 21:08:29,700 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 22
+19/05/09 21:08:30,695 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 9
+19/05/09 21:08:31,696 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 3
+19/05/09 21:08:32,696 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 14
+19/05/09 21:08:32,711 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 15
+19/05/09 21:08:32,712 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 15
+19/05/09 21:08:33,696 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 6
+19/05/09 21:08:33,703 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 15
+19/05/09 21:08:33,704 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 15
+19/05/09 21:08:34,697 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 7
+19/05/09 21:08:35,697 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 4
+19/05/09 21:08:36,697 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 4
+19/05/09 21:08:37,698 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 13
+19/05/09 21:08:37,702 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 20
+19/05/09 21:08:37,702 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 20
+19/05/09 21:08:38,698 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 4
+19/05/09 21:08:39,698 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 5
+19/05/09 21:08:40,699 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 18
+19/05/09 21:08:40,705 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 28
+19/05/09 21:08:40,706 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 28
+19/05/09 21:08:41,699 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 3
+19/05/09 21:08:41,700 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 12
+19/05/09 21:08:41,700 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 12
+19/05/09 21:08:42,699 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 14
+19/05/09 21:08:43,700 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 14
+19/05/09 21:08:43,702 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 18
+19/05/09 21:08:43,703 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 18
+19/05/09 21:08:44,700 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 12
+19/05/09 21:08:44,707 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 19
+19/05/09 21:08:44,708 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 19
+19/05/09 21:08:45,700 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 15
+19/05/09 21:08:45,719 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 13
+19/05/09 21:08:45,720 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 13
+19/05/09 21:08:46,701 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 13
+19/05/09 21:08:46,705 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 19
+19/05/09 21:08:46,706 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 19
+19/05/09 21:08:47,701 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: jablko 5
+19/05/09 21:08:47,706 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 23
+19/05/09 21:08:47,706 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 23
+19/05/09 21:08:48,701 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: gruszka 14
+19/05/09 21:08:48,713 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 10
+19/05/09 21:08:48,714 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 10
+19/05/09 21:08:49,702 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 13
+19/05/09 21:08:50,702 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 13
+19/05/09 21:08:50,703 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 21
+19/05/09 21:08:50,703 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 21
+19/05/09 21:08:51,702 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 17
+19/05/09 21:08:52,703 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 9
+19/05/09 21:08:53,703 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 3
+19/05/09 21:08:53,704 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 26
+19/05/09 21:08:53,704 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 26
+19/05/09 21:08:54,703 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 28
+19/05/09 21:08:54,710 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 15
+19/05/09 21:08:54,710 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 15
+19/05/09 21:08:55,704 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 11
+19/05/09 21:08:55,707 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 26
+19/05/09 21:08:55,708 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 26
+19/05/09 21:08:56,704 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 6
+19/05/09 21:08:57,704 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 4
+19/05/09 21:08:58,705 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 7
+19/05/09 21:08:59,705 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 3
+19/05/09 21:09:00,705 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 11
+19/05/09 21:09:00,709 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 27
+19/05/09 21:09:00,710 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 27
+19/05/09 21:09:01,706 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: jablko 8
+19/05/09 21:09:02,706 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: gruszka 10
+19/05/09 21:09:02,708 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 21
+19/05/09 21:09:02,708 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 21
+19/05/09 21:09:03,706 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 21
+19/05/09 21:09:03,707 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 21
+19/05/09 21:09:03,707 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 21
+19/05/09 21:09:04,707 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 8
+19/05/09 21:09:04,708 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 22
+19/05/09 21:09:04,709 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 22
+19/05/09 21:09:05,707 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 9
+19/05/09 21:09:06,707 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 13
+19/05/09 21:09:06,708 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 10
+19/05/09 21:09:06,709 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 10
+19/05/09 21:09:07,708 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 3
+19/05/09 21:09:08,708 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 8
+19/05/09 21:09:09,708 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 16
+19/05/09 21:09:10,709 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 6
+19/05/09 21:09:10,715 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 20
+19/05/09 21:09:10,716 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 20
+19/05/09 21:09:11,709 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 8
+19/05/09 21:09:11,717 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 23
+19/05/09 21:09:11,718 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 23
+19/05/09 21:09:12,710 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 16
+19/05/09 21:09:12,711 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 12
+19/05/09 21:09:12,711 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 12
+19/05/09 21:09:13,711 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 8
+19/05/09 21:09:14,711 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 4
+19/05/09 21:09:14,717 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 14
+19/05/09 21:09:14,717 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 14
+19/05/09 21:09:15,712 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 17
+19/05/09 21:09:15,712 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 20
+19/05/09 21:09:15,713 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 20
+19/05/09 21:09:16,713 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 12
+19/05/09 21:09:16,719 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 14
+19/05/09 21:09:16,719 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 14
+19/05/09 21:09:17,713 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 12
+19/05/09 21:09:17,722 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 26
+19/05/09 21:09:17,723 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 26
+19/05/09 21:09:18,713 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 23
+19/05/09 21:09:18,720 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 23
+19/05/09 21:09:18,722 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 23
+19/05/09 21:09:19,714 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 19
+19/05/09 21:09:19,719 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 28
+19/05/09 21:09:19,721 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 28
+19/05/09 21:09:20,714 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 5
+19/05/09 21:09:21,714 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 5
+19/05/09 21:09:22,715 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 29
+19/05/09 21:09:22,716 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 29
+19/05/09 21:09:22,717 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 29
+19/05/09 21:09:23,717 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 21
+19/05/09 21:09:24,717 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 6
+19/05/09 21:09:25,717 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 13
+19/05/09 21:09:26,718 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 13
+19/05/09 21:09:26,728 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 14
+19/05/09 21:09:26,728 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 14
+19/05/09 21:09:27,718 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 6
+19/05/09 21:09:27,718 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 22
+19/05/09 21:09:27,719 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 22
+19/05/09 21:09:28,718 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 15
+19/05/09 21:09:28,732 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 12
+19/05/09 21:09:28,732 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 12
+19/05/09 21:09:29,719 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 7
+19/05/09 21:09:30,719 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 12
+19/05/09 21:09:30,729 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 23
+19/05/09 21:09:30,730 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 23
+19/05/09 21:09:31,719 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 6
+19/05/09 21:09:32,720 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 5
+19/05/09 21:09:32,729 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 11
+19/05/09 21:09:32,730 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 11
+19/05/09 21:09:33,720 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 30
+19/05/09 21:09:33,721 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 17
+19/05/09 21:09:33,722 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 17
+19/05/09 21:09:34,720 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 11
+19/05/09 21:09:34,728 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 11
+19/05/09 21:09:34,729 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 11
+19/05/09 21:09:35,721 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 13
+19/05/09 21:09:35,723 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 23
+19/05/09 21:09:35,724 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 23
+19/05/09 21:09:36,723 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 15
+19/05/09 21:09:36,725 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 10
+19/05/09 21:09:36,726 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 10
+19/05/09 21:09:37,724 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: gruszka 3
+19/05/09 21:09:37,725 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 15
+19/05/09 21:09:37,725 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 15
+19/05/09 21:09:38,724 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 18
+19/05/09 21:09:38,728 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 29
+19/05/09 21:09:38,729 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 29
+19/05/09 21:09:39,725 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 12
+19/05/09 21:09:40,725 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 6
+19/05/09 21:09:41,725 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 16
+19/05/09 21:09:41,726 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 18
+19/05/09 21:09:41,727 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 18
+19/05/09 21:09:42,726 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 8
+19/05/09 21:09:42,727 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 12
+19/05/09 21:09:42,727 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 12
+19/05/09 21:09:43,728 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 11
+19/05/09 21:09:43,735 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 17
+19/05/09 21:09:43,736 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 17
+19/05/09 21:09:44,728 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 15
+19/05/09 21:09:44,729 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 11
+19/05/09 21:09:44,730 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 11
+19/05/09 21:09:45,729 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 9
+19/05/09 21:09:46,730 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 9
+19/05/09 21:09:46,741 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 12
+19/05/09 21:09:46,742 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 12
+19/05/09 21:09:47,730 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 12
+19/05/09 21:09:48,731 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 10
+19/05/09 21:09:48,740 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 19
+19/05/09 21:09:48,741 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 19
+19/05/09 21:09:49,731 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 11
+19/05/09 21:09:49,736 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 16
+19/05/09 21:09:49,737 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 16
+19/05/09 21:09:50,731 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 5
+19/05/09 21:09:51,732 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 16
+19/05/09 21:09:51,738 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 27
+19/05/09 21:09:51,739 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 27
+19/05/09 21:09:52,733 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 27
+19/05/09 21:09:52,734 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 27
+19/05/09 21:09:52,734 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 27
+19/05/09 21:09:53,733 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 7
+19/05/09 21:09:54,734 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 6
+19/05/09 21:09:55,734 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 10
+19/05/09 21:09:55,734 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 29
+19/05/09 21:09:55,735 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 29
+19/05/09 21:09:56,735 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 18
+19/05/09 21:09:56,737 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 22
+19/05/09 21:09:56,738 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 22
+19/05/09 21:09:57,736 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 7
+19/05/09 21:09:58,737 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 5
+19/05/09 21:09:59,737 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 27
+19/05/09 21:09:59,739 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 21
+19/05/09 21:09:59,740 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 21
+19/05/09 21:10:00,738 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 18
+19/05/09 21:10:00,743 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 17
+19/05/09 21:10:00,744 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 17
+19/05/09 21:10:01,738 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 5
+19/05/09 21:10:01,751 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 17
+19/05/09 21:10:01,752 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 17
+19/05/09 21:10:02,738 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 18
+19/05/09 21:10:02,750 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 20
+19/05/09 21:10:02,750 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 20
+19/05/09 21:10:03,739 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 22
+19/05/09 21:10:03,750 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 24
+19/05/09 21:10:03,751 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 24
+19/05/09 21:10:04,739 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 19
+19/05/09 21:10:04,739 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 24
+19/05/09 21:10:04,740 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 24
+19/05/09 21:10:05,739 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 22
+19/05/09 21:10:05,744 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 16
+19/05/09 21:10:05,745 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 16
+19/05/09 21:10:06,740 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 24
+19/05/09 21:10:06,746 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 21
+19/05/09 21:10:06,747 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 21
+19/05/09 21:10:07,741 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 6
+19/05/09 21:10:08,742 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 20
+19/05/09 21:10:08,748 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 12
+19/05/09 21:10:08,749 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 12
+19/05/09 21:10:09,742 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 11
+19/05/09 21:10:09,747 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 13
+19/05/09 21:10:09,749 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 13
+19/05/09 21:10:10,742 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 19
+19/05/09 21:10:10,746 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 12
+19/05/09 21:10:10,747 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 12
+19/05/09 21:10:11,743 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 10
+19/05/09 21:10:11,747 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 24
+19/05/09 21:10:11,748 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 24
+19/05/09 21:10:12,743 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 3
+19/05/09 21:10:13,744 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: jablko 15
+19/05/09 21:10:13,747 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 24
+19/05/09 21:10:13,747 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 24
+19/05/09 21:10:14,745 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 17
+19/05/09 21:10:14,747 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 19
+19/05/09 21:10:14,748 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 19
+19/05/09 21:10:15,745 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 15
+19/05/09 21:10:16,746 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 10
+19/05/09 21:10:17,747 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 8
+19/05/09 21:10:18,748 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 14
+19/05/09 21:10:18,761 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 13
+19/05/09 21:10:18,762 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 13
+19/05/09 21:10:19,749 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 4
+19/05/09 21:10:19,760 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 19
+19/05/09 21:10:19,761 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 19
+19/05/09 21:10:20,750 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 22
+19/05/09 21:10:20,760 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 27
+19/05/09 21:10:20,760 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 27
+19/05/09 21:10:21,750 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 17
+19/05/09 21:10:21,759 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 26
+19/05/09 21:10:21,759 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 26
+19/05/09 21:10:22,750 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 9
+19/05/09 21:10:22,758 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 26
+19/05/09 21:10:22,759 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 26
+19/05/09 21:10:23,751 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 19
+19/05/09 21:10:23,758 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 14
+19/05/09 21:10:23,759 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 14
+19/05/09 21:10:24,752 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 15
+19/05/09 21:10:25,752 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 12
+19/05/09 21:10:26,753 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 6
+19/05/09 21:10:26,756 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 24
+19/05/09 21:10:26,757 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 24
+19/05/09 21:10:27,754 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 7
+19/05/09 21:10:27,755 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 20
+19/05/09 21:10:27,755 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 20
+19/05/09 21:10:28,755 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 24
+19/05/09 21:10:28,757 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 15
+19/05/09 21:10:28,758 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 15
+19/05/09 21:10:29,756 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 23
+19/05/09 21:10:29,757 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 20
+19/05/09 21:10:29,758 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 20
+19/05/09 21:10:30,757 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 23
+19/05/09 21:10:30,771 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 14
+19/05/09 21:10:30,772 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 14
+19/05/09 21:10:31,757 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 13
+19/05/09 21:10:31,760 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 20
+19/05/09 21:10:31,761 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 20
+19/05/09 21:10:32,757 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 18
+19/05/09 21:10:32,760 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 16
+19/05/09 21:10:32,760 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 16
+19/05/09 21:10:33,758 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 9
+19/05/09 21:10:34,759 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 10
+19/05/09 21:10:34,768 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 21
+19/05/09 21:10:34,769 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 21
+19/05/09 21:10:35,759 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 5
+19/05/09 21:10:36,759 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 11
+19/05/09 21:10:37,760 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 25
+19/05/09 21:10:37,760 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 11
+19/05/09 21:10:37,761 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 11
+19/05/09 21:10:38,761 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 9
+19/05/09 21:10:38,768 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 22
+19/05/09 21:10:38,770 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 22
+19/05/09 21:10:39,762 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 9
+19/05/09 21:10:39,765 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 24
+19/05/09 21:10:39,766 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 24
+19/05/09 21:10:40,762 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 8
+19/05/09 21:10:40,764 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 12
+19/05/09 21:10:40,764 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 12
+19/05/09 21:10:41,763 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 11
+19/05/09 21:10:42,764 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 3
+19/05/09 21:10:43,764 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 26
+19/05/09 21:10:43,768 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 21
+19/05/09 21:10:43,768 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 21
+19/05/09 21:10:44,764 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 5
+19/05/09 21:10:45,765 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 16
+19/05/09 21:10:45,766 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 14
+19/05/09 21:10:45,766 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 14
+19/05/09 21:10:46,765 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 16
+19/05/09 21:10:46,766 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 24
+19/05/09 21:10:46,766 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 24
+19/05/09 21:10:47,766 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: winogrono 19
+19/05/09 21:10:47,767 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 12
+19/05/09 21:10:47,768 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 12
+19/05/09 21:10:48,766 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 26
+19/05/09 21:10:48,774 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 11
+19/05/09 21:10:48,774 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 11
+19/05/09 21:10:49,767 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 9
+19/05/09 21:10:49,770 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 13
+19/05/09 21:10:49,770 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 13
+19/05/09 21:10:50,767 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 10
+19/05/09 21:10:50,780 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 12
+19/05/09 21:10:50,781 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 12
+19/05/09 21:10:51,768 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 10
+19/05/09 21:10:51,791 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 27
+19/05/09 21:10:51,792 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 27
+19/05/09 21:10:52,773 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 17
+19/05/09 21:10:52,775 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 15
+19/05/09 21:10:52,776 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 15
+19/05/09 21:10:53,774 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 4
+19/05/09 21:10:54,774 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 28
+19/05/09 21:10:54,775 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 14
+19/05/09 21:10:54,775 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 14
+19/05/09 21:10:55,775 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 10
+19/05/09 21:10:55,777 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 29
+19/05/09 21:10:55,778 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 29
+19/05/09 21:10:56,775 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 10
+19/05/09 21:10:56,776 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 18
+19/05/09 21:10:56,777 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 18
+19/05/09 21:10:57,775 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 12
+19/05/09 21:10:57,778 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 21
+19/05/09 21:10:57,778 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 21
+19/05/09 21:10:58,777 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: arbuz 3
+19/05/09 21:10:59,778 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 15
+19/05/09 21:10:59,783 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 26
+19/05/09 21:10:59,783 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 26
+19/05/09 21:11:00,779 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 16
+19/05/09 21:11:01,779 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 4
+19/05/09 21:11:02,780 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: winogrono 12
+19/05/09 21:11:02,790 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 18
+19/05/09 21:11:02,791 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 18
+19/05/09 21:11:03,780 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 10
+19/05/09 21:11:04,781 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 3
+19/05/09 21:11:04,792 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 11
+19/05/09 21:11:04,793 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 11
+19/05/09 21:11:05,781 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 6
+19/05/09 21:11:06,781 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 13
+19/05/09 21:11:07,782 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: jablko 7
+19/05/09 21:11:08,783 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 5
+19/05/09 21:11:08,784 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 15
+19/05/09 21:11:08,784 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 15
+19/05/09 21:11:09,783 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 4
+19/05/09 21:11:09,785 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 15
+19/05/09 21:11:09,785 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 15
+19/05/09 21:11:10,783 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 16
+19/05/09 21:11:10,786 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 29
+19/05/09 21:11:10,787 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 29
+19/05/09 21:11:11,784 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 6
+19/05/09 21:11:12,785 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 6
+19/05/09 21:11:13,785 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: jablko 12
+19/05/09 21:11:13,787 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 20
+19/05/09 21:11:13,788 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 20
+19/05/09 21:11:14,786 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 8
+19/05/09 21:11:15,786 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: jablko 15
+19/05/09 21:11:15,789 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: jablko 16
+19/05/09 21:11:15,789 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: jablko 16
+19/05/09 21:11:16,787 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 8
+19/05/09 21:11:16,788 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 23
+19/05/09 21:11:16,788 [Thread-5]  WARN   anna.paszcza.Dostarczenie - BRAK FUNDUSZY NA ZAMOWIENIE
