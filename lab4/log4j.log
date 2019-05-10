@@ -1,0 +1,39 @@
+2019-05-10 22:26:57 INFO  Client:42 - [Client] Chosen products: 
+2019-05-10 22:26:57 INFO  Client:43 - Crayon 2 1.59 Crayon 2 desc Pencil 2 2.89 Pencil 2 desc Pencil 1 2.49 Pencil 1 desc 
+2019-05-10 22:26:59 WARN  Orderer:30 - [Orderer] Resupply needed: PNC
+2019-05-10 22:26:59 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 3 1.78 Pnc 3 description
+2019-05-10 22:27:00 INFO  Client:42 - [Client] Chosen products: 
+2019-05-10 22:27:00 INFO  Client:43 - Crayon 3 3.59 Crayon 3 desc Pnc 3 1.78 Pnc 3 description Pen 1 2.13 Pen 1 desc 
+2019-05-10 22:27:03 INFO  Client:42 - [Client] Chosen products: 
+2019-05-10 22:27:03 INFO  Client:43 - Pen 3 7.4 Pen 3 desc Pen 2 1.37 Pen 2 desc Crayon 1 0.59 Crayon 1 desc 
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 3 1.87 Pen 3 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 4 2.8 Pen 4 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 5 5.89 Pen 5 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 6 5.78 Pen 6 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 7 3.03 Pen 7 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 8 6.62 Pen 8 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 9 3.2 Pen 9 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Pen 10 1.21 Pen 10 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Cry 3 4.29 Cry 3 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Cry 4 2.7 Cry 4 description
+2019-05-10 22:27:03 INFO  Supplier:38 - [Supplier] Adding to stock: Cry 5 3.29 Cry 5 description
+2019-05-10 22:27:04 WARN  Orderer:30 - [Orderer] Resupply needed: PNC
+2019-05-10 22:27:04 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 4 8.9 Pnc 4 description
+2019-05-10 22:27:06 INFO  Client:42 - [Client] Chosen products: 
+2019-05-10 22:27:06 INFO  Client:43 - Pencil 3 3.49 Pencil 3 desc Cry 4 2.7 Cry 4 description Pnc 4 8.9 Pnc 4 description 
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 5 2.02 Pnc 5 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 6 1.39 Pnc 6 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 7 8.23 Pnc 7 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 8 3.59 Pnc 8 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 9 8.19 Pnc 9 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 10 4.41 Pnc 10 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 11 1.07 Pnc 11 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 12 4.69 Pnc 12 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 13 2.12 Pnc 13 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 14 3.97 Pnc 14 description
+2019-05-10 22:27:06 INFO  Supplier:38 - [Supplier] Adding to stock: Pnc 15 1.12 Pnc 15 description
+2019-05-10 22:27:09 WARN  Orderer:30 - [Orderer] Resupply needed: CRY
+2019-05-10 22:27:09 INFO  Supplier:38 - [Supplier] Adding to stock: Cry 6 1.44 Cry 6 description
+2019-05-10 22:27:09 INFO  Client:42 - [Client] Chosen products: 
+2019-05-10 22:27:09 INFO  Client:43 - Cry 6 1.44 Cry 6 description Cry 5 3.29 Cry 5 description Pnc 7 8.23 Pnc 7 description 
+2019-05-10 22:27:09 INFO  Shop:30 - [Shop] Shop shutdown
