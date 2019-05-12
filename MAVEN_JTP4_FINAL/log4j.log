@@ -1,0 +1,15 @@
+19/05/13 00:35:56,816 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: winogrono 50
+19/05/13 00:35:56,824 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: winogrono 19
+19/05/13 00:35:56,825 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: winogrono 19
+19/05/13 00:35:57,937 [Thread-6]  INFO   anna.paszcza.Klient - 1 KUPUJE: gruszka 15
+19/05/13 00:35:58,957 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: gruszka 13
+19/05/13 00:35:59,963 [Thread-8]  INFO   anna.paszcza.Klient - 3 KUPUJE: arbuz 12
+19/05/13 00:35:59,964 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 27
+19/05/13 00:35:59,965 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 27
+19/05/13 00:36:00,966 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: gruszka 12
+19/05/13 00:36:00,970 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: gruszka 14
+19/05/13 00:36:00,970 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: gruszka 14
+19/05/13 00:36:01,976 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 25
+19/05/13 00:36:02,993 [Thread-7]  INFO   anna.paszcza.Klient - 2 KUPUJE: arbuz 6
+19/05/13 00:36:03,003 [Thread-4]  INFO   anna.paszcza.Zamowienie -   ZAMAWIAM: arbuz 22
+19/05/13 00:36:03,004 [Thread-5]  INFO   anna.paszcza.Dostarczenie -   DOSTARCZAM: arbuz 22
