@@ -1,0 +1,40 @@
+TV;Samsung;3499.99;5;Smart TV, 50 inches, beautiful
+TV;Philips;3099.99;5;Smart TV, 48 inches, beautiful
+TV;Philips;3099.99;5;Smart TV, 48 inches, beautiful
+TV;Philips;3099.99;5;Smart TV, 48 inches, beautiful
+TV;Samsung;2499.99;5;Smart TV, 49 inches, ugly
+TV;Samsung;2499.99;5;Smart TV, 49 inches, ugly
+TV;Samsung;2499.99;5;Smart TV, 49 inches, ugly
+TV;Samsung;2499.99;5;Smart TV, 49 inches, ugly
+TV;MANTA;1499.99;5;Smart TV, 19 inches, beautiful
+TV;MANTA;1499.99;5;Smart TV, 19 inches, beautiful
+TV;MANTA;1499.99;5;Smart TV, 19 inches, beautiful
+TV;Philips;3499.99;5;Smart TV, 50 inches, ugly
+TV;Philips;3499.99;5;Smart TV, 50 inches, ugly
+PC;Dell;4950;10;Processor Intel HD, drive ssd!, graphics 2GB
+PC;Dell;4950;10;Processor Intel HD, drive ssd!, graphics 2GB
+PC;Dell;4950;10;Processor Intel HD, drive ssd!, graphics 2GB
+PC;MSI;3950;10;Processor 3Ghz, drive 1TB, graphics 1GB
+PC;MSI;5950;10;Processor 3Ghz, drive 1TB ssd, graphics 4GB
+PC;MSI;5950;10;Processor 3Ghz, drive 1TB ssd, graphics 4GB
+PC;MSI;5950;10;Processor 3Ghz, drive 1TB ssd, graphics 4GB
+PC;MSI;5950;10;Processor 3Ghz, drive 1TB ssd, graphics 4GB
+PC;MSI;5950;10;Processor 3Ghz, drive 1TB ssd, graphics 4GB
+PC;MSI;5950;10;Processor 3Ghz, drive 1TB ssd, graphics 4GB
+PC;Dell;4950;10;Processor Intel HD, drive ssd!, graphics 3GB
+PC;Dell;4950;10;Processor Intel HD, drive ssd!, graphics 3GB
+PC;NONAME;1950;10;Processor Intel HD, without drive!, graphics 512MB
+PC;NONAME;1950;10;Processor Intel HD, without drive!, graphics 512MB
+TOASTER;NONAME;350;5;delicious toasts
+TOASTER;NONAME;350;5;delicious toasts
+TOASTER;Samsung;450;3;big and hot toasts
+TOASTER;Samsung;450;3;big and hot toasts
+TOASTER;Philips;250;4;awful and small toasts
+TOASTER;Philips;250;4;awful and small toasts
+TOASTER;Philips;250;4;awful and small toasts
+TOASTER;Philips;250;4;awful and small toasts
+TOASTER;Samsung;550;3;delicious toasts
+TOASTER;NONAME;50;5;designed for gamers
+TOASTER;NONAME;50;5;designed for gamers
+TOASTER;NONAME;50;5;designed for gamers
+TOASTER;NONAME;50;5;designed for gamers
