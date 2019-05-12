@@ -11,7 +11,9 @@ public class Dostarczenie extends Thread
     private Finanse finanse;
     private Semaphore semafor;
     private static Logger log = Logger.getLogger(Dostarczenie.class);
-    private File file = new File("D:/Studia/SEMESTR_4/Ania_materialy/MAVEN_JTP4_FINAL/plik.csv");
+    private String aktualnyFolder = System.getProperty("user.dir");
+    private String sciezkaPlikuCSV = aktualnyFolder + "/plik.csv";
+    private File plik = new File(sciezkaPlikuCSV);
 
     public Dostarczenie(Magazyn magazyn, Finanse finanse, Semaphore semafor)
     {
@@ -41,9 +43,9 @@ public class Dostarczenie extends Thread
     {
         BufferedReader bufReader = null;
         String line;
-        if(file.exists())
+        if(plik.exists())
         {
-            try (FileReader reader = new FileReader("D:/Studia/SEMESTR_4/Ania_materialy/MAVEN_JTP4_FINAL/plik.csv"))
+            try (FileReader reader = new FileReader(sciezkaPlikuCSV))
             {
                 bufReader = new BufferedReader(reader);
                 try
@@ -59,7 +61,7 @@ public class Dostarczenie extends Thread
                     {
                         System.out.println("BRAK FUNDUSZY NA ZAMOWIENIE");
                         log.warn("BRAK FUNDUSZY NA ZAMOWIENIE");
-                        file.delete();
+                        plik.delete();
                         setSprawdzBudzet();
                     }
                     else
@@ -80,7 +82,7 @@ public class Dostarczenie extends Thread
             {
                 e.printStackTrace();
             }
-            file.delete();
+            plik.delete();
         }
     }
 

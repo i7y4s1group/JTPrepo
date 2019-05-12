@@ -13,7 +13,9 @@ public class Zamowienie extends Thread
     private Magazyn magazyn;
     private Finanse finanse;
     private Random random = new Random();
-    private File plik = new File("D:/Studia/SEMESTR_4/Ania_materialy/plik.csv");
+    private String aktualnyFolder = System.getProperty("user.dir");
+    private String sciezkaPlikuCSV = aktualnyFolder + "/plik.csv";
+    private File plik = new File(sciezkaPlikuCSV);
     private static Logger log = Logger.getLogger(Zamowienie.class);
     private Semaphore semafor;
 
@@ -78,7 +80,7 @@ public class Zamowienie extends Thread
             e.printStackTrace();
         }
 
-        try (FileWriter writer = new FileWriter("D:/Studia/SEMESTR_4/Ania_materialy/MAVEN_JTP4_FINAL/plik.csv", false))
+        try (FileWriter writer = new FileWriter(sciezkaPlikuCSV, false))
         {
             writer.write(produkt + "," + magazyn.getStanMagazynu().get(produkt).getNazwa() + "," + magazyn.getStanMagazynu().get(produkt).getCena() + "," + ilosc);
             System.out.println("ZAMAWIAM: " + magazyn.getStanMagazynu().get(produkt).getNazwa()  + " " + ilosc);
