@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<company>
+    <staff id="1">
+        <name>Adam Abacki</name>
+        <accountNumber>00000000000000000000000000</accountNumber>
+        <value>156.15</value>
+        <title>Przelew Krajowy</title>
+    </staff>
+    <staff id="2">
+        <name>Bogdan Babacki</name>
+        <accountNumber>00000000012340000000000000</accountNumber>
+        <value>156.15</value>
+        <title>Przelew Krajowy</title>
+    </staff>
+    <staff id="3">
+        <name>Cezary Cabacki</name>
+        <accountNumber>00000000000012000000000000</accountNumber>
+        <value>106.15</value>
+        <title>Przelew Krajowy</title>
+    </staff>
+    <staff id="4">
+        <name>Damian Dadacki</name>
+        <accountNumber>00003000000000000000000000</accountNumber>
+        <value>15</value>
+        <title>Przelew Krajowy</title>
+    </staff>
+    <staff id="5">
+        <name>Eustachy Ebacki</name>
+        <accountNumber>00120000000000000000000000</accountNumber>
+        <value>15.15</value>
+        <title>Przelew Krajowy</title>
+    </staff>
+    <staff id="6">
+        <name>Franek Fabacki</name>
+        <accountNumber>00000000000000000000000000</accountNumber>
+        <value>152.15</value>
+        <title>Przelew Krajowy</title>
+    </staff>
+    <staff id="7">
+        <name>Grzegorz Gagacki</name>
+        <accountNumber>00003400000000000000000000</accountNumber>
+        <value>186.15</value>
+        <title>Przelew Krajowy</title>
+    </staff>
+</company>
