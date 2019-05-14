@@ -1,0 +1,7 @@
+Adam Abacki; 00000000000000000000000000; 156.15; Przelew Krajowy
+Bogdan Babacki; 00000000012340000000000000; 156.15; Przelew Krajowy
+Cezary Cabacki; 00000000000012000000000000; 106.15; Przelew Krajowy
+Damian Dadacki; 00003000000000000000000000; 15; Przelew Krajowy
+Eustachy Ebacki; 00120000000000000000000000; 15.15; Przelew Krajowy
+Franek Fabacki; 00000000000000000000000000; 152.15; Przelew Krajowy
+Grzegorz Gagacki; 00003400000000000000000000; 186.15; Przelew Krajowy
